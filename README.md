@@ -1,3 +1,3 @@
 # CodingBat
 
-Languages: Python
+Languages: Python, Java
