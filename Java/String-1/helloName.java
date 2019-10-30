@@ -8,7 +8,7 @@ public String helloName(String name) {
   return "Hello " +  name + "!";
 }
 
-
+#helloName("Bob") → "Hello Bob!"
 #helloName("Alice") → "Hello Alice!"
 #helloName("X") → "Hello X!"
 #helloName("Dolly") → "Hello Dolly!"
