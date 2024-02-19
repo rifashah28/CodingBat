@@ -10,7 +10,7 @@ def sleep_in(weekday, vacation):
   else:
     return False
 
-#sleep_in(False, False) → True
-#sleep_in(True, False) → False
-#sleep_in(False, True) → True
-#sleep_in(True, True) → True
+#sleep_in(False, False) → True  OK
+#sleep_in(True, False) → False  OK
+#sleep_in(False, True) → True   OK
+#sleep_in(True, True) → True    OK
