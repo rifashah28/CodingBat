@@ -12,7 +12,7 @@ def monkey_trouble(a_smile, b_smile):
   else:
     return False
 
-#monkey_trouble(True, True) → True
-#monkey_trouble(False, False) → True
-#monkey_trouble(True, False) → False
-#monkey_trouble(False, True) → False
+#monkey_trouble(True, True) → True    OK
+#monkey_trouble(False, False) → True  OK
+#monkey_trouble(True, False) → False  OK
+#monkey_trouble(False, True) → False  OK
