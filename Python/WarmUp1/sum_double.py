@@ -10,11 +10,11 @@ def sum_double(a, b):
   else:
     return a + b
 
-#sum_double(1, 2) → 3
-#sum_double(3, 2) → 5
-#sum_double(2, 2) → 8
-#sum_double(-1, 0) → -1
-#sum_double(3, 3) → 12
-#sum_double(0, 0) → 0
-#sum_double(0, 1) → 1
-#sum_double(3, 4) → 7
+#sum_double(1, 2) → 3    OK
+#sum_double(3, 2) → 5    OK
+#sum_double(2, 2) → 8    OK
+#sum_double(-1, 0) → -1  OK
+#sum_double(3, 3) → 12   OK
+#sum_double(0, 0) → 0    OK
+#sum_double(0, 1) → 1    OK
+#sum_double(3, 4) → 7    OK
